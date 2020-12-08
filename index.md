@@ -7,7 +7,7 @@ Ingeniero en Sistemas Computacionales. Desarrollador Web.
 
 <div id="webaddress">
 <a href="j.mendezcarrasco@gmail.com">j.mendezcarrasco@gmail.com</a>
-| <a href="http://skrial.com">Portafolio</a>
+| <a href="https://skrial.com/">Ver Portafolio...</a>
 </div>
 
 
