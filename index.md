@@ -15,7 +15,7 @@ Ingeniero en Sistemas Computacionales. Desarrollador Web.
 
 Desarrollador web independiente.
 
-### Especializaciones
+## Especializaciones
 
 NodeJS, Angular, JavaScript. Diseño gráfico y de interfaz con herramientas Adobe.
 
