@@ -40,7 +40,7 @@ Marketing Digital, *Universidad Iberoamericana (IBERO)*
 Desarrollo Web, *Instituto de Economía Internacional*
 
 `2017`
-Desarrollo de Apps Móviles, *Universidad Complutense de Madrid*
+Desarrollo de Apps Móviles, *Universidad Complutense de Madrid* 
 
 <!-- ### Footer
 
